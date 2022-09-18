@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Oleo+Script+Swash+Caps&family=Permanent+Marker&family=Rubik+Moonrocks&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Oleo+Script+Swash+Caps&family=Permanent+Marker&family=Roboto:ital,wght@1,100&family=Rubik+Moonrocks&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Lobster&family=Oleo+Script+Swash+Caps&family=PT+Sans+Narrow:wght@700&family=Permanent+Marker&family=Playfair+Display:wght@600;700&family=Roboto:ital,wght@1,100&family=Rubik+Dirt&family=Rubik+Moonrocks&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=DynaPuff&family=Libre+Baskerville:ital@1&family=Lobster&family=Oleo+Script+Swash+Caps&family=PT+Sans+Narrow:wght@700&family=Permanent+Marker&family=Playfair+Display:wght@600;700&family=Roboto:ital,wght@1,100&family=Rubik+Dirt&family=Rubik+Moonrocks&display=swap');
+body {
+    background-color: antiquewhite;
+}
+
+.feature {
+    height: 250px;
+    border: 1px solid #fff;
+    background-color: rgb(156, 67, 234);
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    padding: 15px;
+    background-image: url(../Multimedia/765560.png);
+    background-size: cover;
+}
+
+.feature.feat3 {
+    background-color: blue;
+    background-image: url(../Multimedia/limon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+
+.feature.feat4 {
+    background-color: red;
+    font-size: 16px;
+    font-family: 'Cinzel', serif;
+    background-image: url(../Multimedia/uvas1.jpg);
+}
+
+.feature.feat1 {
+    background-color: rgb(35, 125, 101);
+    background-image: url(../Multimedia/glass.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.feature.feat2 {
+    background-color: rgb(192, 192, 98);
+    background-image: url(../Multimedia/brain.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.feature.feat5 {
+    background-color: orange;
+    
+
+}
+
+h1 {
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    line-height: 2 !important;
+    background-color: blueviolet;
+    margin: 0%;
+}
+
+.feature i {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(153, 75, 182);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: antiquewhite;
+}
+
+
+
+.feature p {
+    color: white;
+    text-shadow: 2px 2px 20px black;
+}
+
+section {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 15px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif !important;
+}
+
+
+.servi {
+    font-family: "Playfair Display", serif;
+}
+
+.servi h4 {
+    font-size: 28px;
+    font-weight: 100;
+    color: #fff
+}
+
+footer {
+    background-color: blueviolet;
+    height: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    color: #fff;
+
+}
+
+@media only screen and (min-width: 360px) and (max-width: 425px) {
+    h4 {
+        font-size: 20px !important;
+    }
+}
+
+/*# sourceMappingURL=servicios.css.map */

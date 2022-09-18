@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Oleo+Script+Swash+Caps&family=Permanent+Marker&family=Roboto:ital,wght@1,100&family=Rubik+Dirt&family=Rubik+Moonrocks&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Oleo+Script+Swash+Caps&family=PT+Sans+Narrow:wght@700&family=Permanent+Marker&family=Roboto:ital,wght@1,100&family=Rubik+Dirt&family=Rubik+Moonrocks&display=swap");
+
+h1 {
+    background-color: rgb(167, 138, 194);
+    text-align: center;
+    margin: 0%;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+}
+
+.imagen {
+    background-image: url(../Multimedia/brain.png);
+    background-size: cover;
+    background-size: contain;
+    height: 150px;
+    background-repeat: no-repeat;
+    padding-left: 80px;
+    color: blanchedalmond;
+    padding: 90px;
+}
+
+footer {
+    background-color: blueviolet;
+    height: 200px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    padding: 40px;
+    color: aliceblue;
+}
+
+.navbar {
+    background-color: rgba(137, 94, 176, 0.523) !important;
+    padding: 10px;
+    font-size: 18px !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+li.nav-item {
+    color: aliceblue !important;
+}
+
+
+.nrigth {
+    background-color: rgb(167, 138, 194);
+    background-size: cover;
+    border: solid 1px violet;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    color: aliceblue;
+}
+
+.nleft,
+.locales {
+    background-image: url(../Multimedia/nosotros.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    border: solid 1px violet;
+}
+
+div.container {
+    background-image: url(../Multimedia/variedades.png);
+}
+
+div.container h2 {
+    text-align: center;
+}
+
+div.row {
+    font-family: "PT Sans Narrow", sans-serif;
+}
+
+table.table.table-striped {
+    font-family: "PT Sans Narrow", sans-serif;
+    border: solid 1px springgreen;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+div.nrigth.col-sm-6 {
+    font-size: 20px;
+}
+
+.locales {
+    background-color: brown;
+    text-align: center;
+    height: 70px;
+    color: azure;
+}
+
+/*# sourceMappingURL=nosotros.css.map */
